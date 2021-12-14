@@ -1,7 +1,7 @@
 # Hi there 👋
-- 🔭 Nice to meet you. My name is **JeongBeom.** 
-- 🌱 I'm interested in **Data Analysis and Programming.**
-- 🤔 So i am studying about **Python, Data Analysis.**
+- 🔭 Nice to meet you. My name is **JeongBeom** 
+- 🌱 I'm interested by **Data Analysis and Programming**
+- 🤔 So i am studying about **Python, Data Analysis**
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Jeong-Beom/)](https://github.com/Jeong-Beom/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto=Bestcu115@gmail.com)](mailto:Bestcu115@gmail.com)

@@ -1,6 +1,6 @@
 
 
-# Hi there 👋 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bestcu115)](https://solved.ac/bestcu115)
+# Hi there 👋 
 - 🔭 Nice to meet you. My name is **JeongBeom** 
 - 🌱 I'm interested by **Data Analysis and Programming** 
 - 🤔 So i am studying about **Python, Data Analysis**

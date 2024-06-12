@@ -2,8 +2,8 @@
 
 # Hi there 👋 
 - 🔭 Nice to meet you. My name is **JeongBeom** 
-- 🌱 I'm interested by **Data Analysis and Programming** 
-- 🤔 So i am studying about **Python, Data Analysis**
+- 🌱 I'm interested by **Data Analysis, Engineering and Programming** 
+- 🤔 So i am studying about **Python, Data Engineering, Data Analysis**
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Jeong-Beom/)](https://github.com/Jeong-Beom/)
